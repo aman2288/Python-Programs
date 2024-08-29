@@ -1,4 +1,4 @@
-# Define a function is_palindrome()that recognizes palindromes 
+# 8.Define a function is_palindrome()that recognizes palindromes 
 # (i.e. words that look the same writtenbackwards).
 # Example :- is_palindrome("radar")should return True.
 
