@@ -1,2 +1,2 @@
 # Python-Programs
-these are some Python Programs
+Program names are given inside the program.
