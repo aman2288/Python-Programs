@@ -1,5 +1,5 @@
-# 6.Define a function sum()and a function multiply()that sums and multiplies (respectively) all the numbers in a list of numbers. 
-# example :- sum([1, 2, 3, 4])should return 10, and multiply([1,2, 3, 4])should return 24.
+# 5.Define a function sum()and a function multiply()that sums and multiplies (respectively) all the numbers in a list of numbers. 
+# Example :- sum([1, 2, 3, 4])should return 10, and multiply([1,2, 3, 4])should return 24.
 
 def calc_sum():
     list = [1, 2, 3, 4,5]
