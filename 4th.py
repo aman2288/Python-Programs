@@ -1,4 +1,4 @@
-#  Write a function that takes a character (i.e. a string of length 1) and returns Trueif it is a vowel, Falseotherwise.
+# 4. Write a function that takes a character (i.e. a string of length 1) and returns Trueif it is a vowel, Falseotherwise.
 def vowel_or_not():
     vowels = ["A","E","I","O","U"]
     if char in vowels :
