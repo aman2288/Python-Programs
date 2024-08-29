@@ -1,6 +1,6 @@
 # Define a function is_palindrome()that recognizes palindromes 
 # (i.e. words that look the same writtenbackwards).
-# For example, is_palindrome("radar")should return True.
+# Example :- is_palindrome("radar")should return True.
 
 def is_palindrome():
     value = input("Enter a value :")
